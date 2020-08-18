@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="078eead8-dcfb-4a14-9542-0507f4f9c370" name="Default Changelist" comment="" />
+    <list default="true" id="078eead8-dcfb-4a14-9542-0507f4f9c370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/tb-provider/target/" />
     <ignored path="$PROJECT_DIR$/tb-eureka/target/" />
     <ignored path="$PROJECT_DIR$/tb-provider-two/target/" />
@@ -151,6 +153,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/Git/cmd/git.exe" />
@@ -252,12 +255,12 @@
       <workItem from="1597670047135" duration="235000" />
       <workItem from="1597710181428" duration="3774000" />
       <workItem from="1597721642793" duration="2909000" />
-      <workItem from="1597732252656" duration="709000" />
+      <workItem from="1597732252656" duration="2054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35460000" />
+    <option name="totallyTimeSpent" value="36805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
